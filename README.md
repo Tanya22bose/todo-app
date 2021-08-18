@@ -1,3 +1,5 @@
+A CRUD Operation based Todo Application.
+
 https://user-images.githubusercontent.com/65502480/129879570-a02822cf-e20e-4ab8-9ddc-ef35e07f5f7b.mp4
 # Getting Started with Create React App
 
